@@ -4,7 +4,12 @@ const nextConfig: NextConfig = {
   /* config options here */
 
   images: {
-    domains: ["127.0.0.1", "localhost", "futbol.jrdeveloper.cl"],
+    domains: [
+      "127.0.0.1",
+      "localhost",
+      "futbol.jrdeveloper.cl",
+      "31.97.30.192/",
+    ],
   },
 };
 
