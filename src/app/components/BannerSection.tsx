@@ -5,11 +5,11 @@ import { Download } from "lucide-react";
 const downloads = [
   {
     title: "Reglamento ARFA",
-    href: "/docs/reglamento-arfa_2019.pdf",
+    href: "https://web-futbol-catemu-k23dpff4n-juanramons-projects.vercel.app/docs/reglamento-arfa_2019.pdf",
   },
   {
     title: "Bases de Campeonatos",
-    href: "/docs/bases-campeonatos.pdf",
+    href: "https://web-futbol-catemu-k23dpff4n-juanramons-projects.vercel.app/docs/bases-campeonatos.pdf",
   },
 ];
 
