@@ -8,8 +8,7 @@ const nextConfig: NextConfig = {
       "127.0.0.1",
       "localhost",
       "futbol.jrdeveloper.cl",
-      "api.jrdeveloper.cl",
-      
+      "https://api-futbol-catemu.jrdeveloper.cl/api",
     ],
   },
 };
